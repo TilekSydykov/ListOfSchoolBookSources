@@ -8,6 +8,7 @@
 * https://mektep.kz - учебники электронные (epub)
 * https://mhelp.kz/skachat-elektronnye-uchebniki-kazahstan/ - учебники
 * https://www.yaklass.ru - сайт с электронными задачами и учебниками 
+* http://booksonline.com.ua/view.php?book=79042 - 1001 задач для умственного счета  
 
 список полезных инструментов
 * https://github.com/A9T9/Free-Ocr-Windows-Desktop - ocr для книг PDF 
