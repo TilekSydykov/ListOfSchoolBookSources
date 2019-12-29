@@ -7,6 +7,7 @@
 * http://11klasov.ru - учебники на русском
 * https://mektep.kz - учебники электронные (epub)
 * https://mhelp.kz/skachat-elektronnye-uchebniki-kazahstan/ - учебники
+* https://www.yaklass.ru - сайт с электронными задачами и учебниками 
 
 список полезных инструментов
 * https://github.com/A9T9/Free-Ocr-Windows-Desktop - ocr для книг PDF 
